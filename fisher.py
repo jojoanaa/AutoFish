@@ -40,7 +40,7 @@ def right_click():
 # function to check if red is within range of crosshair
 def color_check():
     x, y = screen_center
-    offset = 20
+    offset = 30
     bbox = (x - offset, y - offset, x + offset, y + offset)
 
     try:
