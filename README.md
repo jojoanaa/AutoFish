@@ -62,7 +62,7 @@ You can install these libraries using pip:
 
 2. **Once the script is running, you will see a message in your console:**  
     > Bot ready. Press F8 to start/stop it.
-    > Press ESC to exit the script.
+    > Press F9 to exit the script.
 
 3. **To start fishing:**  
     Press the F8 key. You will then be asked to select your screen resolution by pressing 1, 2, or 3.
@@ -72,7 +72,7 @@ You can install these libraries using pip:
     Press the F8 key again.
 
 5. **To exit the script:**  
-    Press the ESC key.
+    Press the F9 key.
 
   
 ## Important Notes  
