@@ -16,12 +16,12 @@ def toggle_bot():
         fishing_thread.start()
 
 print("Bot ready. Press F8 to start/stop it.")
-print("Press ESC to exit the script.")
+print("Press F9 to exit the script.")
 
 
 keyboard.add_hotkey("f8", toggle_bot)
 
-keyboard.wait("esc")
+keyboard.wait("f9")
 
 if fishing_thread is not None and fishing_thread.is_alive():
     stop_fishing()
